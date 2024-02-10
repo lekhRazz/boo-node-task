@@ -4,7 +4,6 @@ import HttpStatus from 'http-status';
 
 import commentController from '../lib/controller/comment-controller';
 import dummyCommentData from "./data/comment.js"
-// import { getSqlDetail } from "../db-services/get-db-service.js";
 
 describe('like comment test', () => {
 
